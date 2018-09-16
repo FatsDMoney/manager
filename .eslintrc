@@ -1,6 +1,7 @@
 {
     "extends": "rallycoding",
     "rules": {
-        "no-unused-vars":"off"
+        "no-unused-vars":"off",
+        "arrow-body-style": 0
     }
 }
